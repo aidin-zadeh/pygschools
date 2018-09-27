@@ -2,8 +2,6 @@
 
 ## Background
 
-## Report
-
 ## Requirements
 
 ## Installation
